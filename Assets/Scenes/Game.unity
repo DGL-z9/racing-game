@@ -917,7 +917,7 @@ MonoBehaviour:
   isGameStarted: 0
   car: {fileID: 1517757901}
   fuel: 0
-  fuelPower: 1000
+  fuelPower: 30
   loads:
   - {fileID: 0}
   - {fileID: 0}
